@@ -1,5 +1,5 @@
 # Table Data: 
-# DATA TEMP UMIDADE PRESSAO LUMINOSIDADE
+# DATA TEMP UMIDITY PRESSAO LUMINOSIDADE
 # Obs.: A data está no formato aaaammddHHMMSS; TEMP em graus celsius; UMIDADE em %;
 # PRESSAO em Pascal; LUMINOSIDADE sem unidade 
 
